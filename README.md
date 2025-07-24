@@ -1,8 +1,6 @@
-# Threads - A Full-Stack Next.js Application
+# Threads - A Full-Stack Social Media Application
 
 This is a full-stack, feature-rich social media application inspired by Threads. It's built with a modern tech stack centered around Next.js 14 and demonstrates a wide range of web development skills, from complex database schemas to real-time updates and third-party API integration.
-
-![Threads Demo](https://i.imgur.com/Q21zZbY.png)
 
 ---
 
